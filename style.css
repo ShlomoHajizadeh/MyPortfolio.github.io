@@ -391,7 +391,7 @@ img {
     background-repeat: no-repeat;
     background-size: 30px;
     cursor: pointer;
-    background-color: wheat;
+    background-color: #BBC9C5;
   }
 
   .toggle.active {
@@ -401,7 +401,7 @@ img {
     background-repeat: no-repeat;
     background-size: 25px;
     cursor: pointer;
-    background-color: wheat;
+    background-color: #BBC9C5;
   }
 
   header.sticky .toggle {
