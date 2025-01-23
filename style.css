@@ -386,18 +386,22 @@ img {
     width: 40px;
     height: 40px;
     background: url(menu.png);
+    color: #fff;
     background-position: center;
     background-repeat: no-repeat;
     background-size: 30px;
     cursor: pointer;
+    background-color: wheat;
   }
 
   .toggle.active {
     background: url(close.png);
+    color: black;
     background-position: center;
     background-repeat: no-repeat;
     background-size: 25px;
     cursor: pointer;
+    background-color: wheat;
   }
 
   header.sticky .toggle {
